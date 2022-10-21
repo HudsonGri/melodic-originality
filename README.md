@@ -31,7 +31,7 @@ The results for this research was that there is no correlation between
 melodic originality and thematic fame in the 428 Romantic period
 pieces that were analyzed. As seen in the scatter plot below there was no correlation. In the matrix to the left we can see the probability of each two note-transition for all the 428 tested pieces. Please refer to the research paper for more detailed results and conclusions.
 
-![results](https://i.imgur.com/rGZCnjG.jpg)
+![results](https://i.imgur.com/raTIk6g.jpg)
 
 
 ## Usage
