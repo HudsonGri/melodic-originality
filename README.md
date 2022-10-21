@@ -13,8 +13,8 @@ This is the source code for a computational analysis on the relationship between
 This research was done to propose a novel approach for calculating melodic originality by using every single note in a musical piece. Below is the novel formula.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/RXS2pbb.png" width="400">
-  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/sigv2cy.png" width="400">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/Ovsfxg0.png" width="400">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/ellNfTR.png" width="400">
   <img src="https://i.imgur.com/bckFq29.jpeg">
 </picture>
 
