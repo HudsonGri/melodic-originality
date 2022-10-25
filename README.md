@@ -2,9 +2,12 @@
 
 > **[A computational analysis on the relationship between melodic
 originality and thematic fame in classical music from the
-Romantic period.](/research_paper.pdf)**
+Romantic period.](https://arxiv.org/abs/2210.12201)**
 
 *Hudson Griffith, griffithh@ufl.edu*
+
+[arXiv:2210.12201](https://arxiv.org/abs/2210.12201)
+
 
 This is the source code for a computational analysis on the relationship between melodic originality and thematic fame in classical music from the Romantic period. This research was done for the 2021 AP Research performance task and scored a perfect score. The entire research paper and code was created by myself, Hudson Griffith.
 
